@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\bin\Debug\netcoreapp2.2\codeforces1153A.deps.json
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\bin\Debug\netcoreapp2.2\codeforces1153A.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\bin\Debug\netcoreapp2.2\codeforces1153A.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\bin\Debug\netcoreapp2.2\codeforces1153A.dll
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\bin\Debug\netcoreapp2.2\codeforces1153A.pdb
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.dll
+H:\ACM programming\Codeforces\codeforces1153A\codeforces1153A\obj\Debug\netcoreapp2.2\codeforces1153A.pdb

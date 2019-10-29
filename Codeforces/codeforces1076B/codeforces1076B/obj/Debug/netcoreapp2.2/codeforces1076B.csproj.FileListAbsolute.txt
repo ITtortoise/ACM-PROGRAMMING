@@ -1,0 +1,10 @@
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\bin\Debug\netcoreapp2.2\codeforces1076B.deps.json
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\bin\Debug\netcoreapp2.2\codeforces1076B.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\bin\Debug\netcoreapp2.2\codeforces1076B.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\bin\Debug\netcoreapp2.2\codeforces1076B.dll
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\bin\Debug\netcoreapp2.2\codeforces1076B.pdb
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\obj\Debug\netcoreapp2.2\codeforces1076B.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\obj\Debug\netcoreapp2.2\codeforces1076B.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\obj\Debug\netcoreapp2.2\codeforces1076B.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\obj\Debug\netcoreapp2.2\codeforces1076B.dll
+H:\ACM programming\Codeforces\codeforces1076B\codeforces1076B\obj\Debug\netcoreapp2.2\codeforces1076B.pdb

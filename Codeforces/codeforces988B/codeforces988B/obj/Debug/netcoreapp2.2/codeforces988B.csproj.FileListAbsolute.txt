@@ -1,0 +1,11 @@
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\bin\Debug\netcoreapp2.2\codeforces988B.deps.json
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\bin\Debug\netcoreapp2.2\codeforces988B.runtimeconfig.json
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\bin\Debug\netcoreapp2.2\codeforces988B.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\bin\Debug\netcoreapp2.2\codeforces988B.dll
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\bin\Debug\netcoreapp2.2\codeforces988B.pdb
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.AssemblyInfo.cs
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.dll
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.pdb
+C:\Users\shohag_shadaf\source\repos\codeforces988B\codeforces988B\obj\Debug\netcoreapp2.2\codeforces988B.csprojAssemblyReference.cache

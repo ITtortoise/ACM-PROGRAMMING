@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\bin\Debug\netcoreapp2.2\codeforces1157B.deps.json
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\bin\Debug\netcoreapp2.2\codeforces1157B.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\bin\Debug\netcoreapp2.2\codeforces1157B.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\bin\Debug\netcoreapp2.2\codeforces1157B.dll
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\bin\Debug\netcoreapp2.2\codeforces1157B.pdb
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.dll
+H:\ACM programming\Codeforces\codeforces1157B\codeforces1157B\obj\Debug\netcoreapp2.2\codeforces1157B.pdb

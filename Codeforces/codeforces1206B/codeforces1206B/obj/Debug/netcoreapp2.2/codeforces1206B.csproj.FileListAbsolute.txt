@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\bin\Debug\netcoreapp2.2\codeforces1206B.deps.json
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\bin\Debug\netcoreapp2.2\codeforces1206B.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\bin\Debug\netcoreapp2.2\codeforces1206B.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\bin\Debug\netcoreapp2.2\codeforces1206B.dll
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\bin\Debug\netcoreapp2.2\codeforces1206B.pdb
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.dll
+H:\ACM programming\Codeforces\codeforces1206B\codeforces1206B\obj\Debug\netcoreapp2.2\codeforces1206B.pdb

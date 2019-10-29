@@ -1,0 +1,11 @@
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\bin\Debug\netcoreapp2.2\codeforces1077B.deps.json
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\bin\Debug\netcoreapp2.2\codeforces1077B.runtimeconfig.json
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\bin\Debug\netcoreapp2.2\codeforces1077B.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\bin\Debug\netcoreapp2.2\codeforces1077B.dll
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\bin\Debug\netcoreapp2.2\codeforces1077B.pdb
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.csprojAssemblyReference.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.AssemblyInfo.cs
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.dll
+C:\Users\shohag_shadaf\source\repos\codeforces1077B\codeforces1077B\obj\Debug\netcoreapp2.2\codeforces1077B.pdb

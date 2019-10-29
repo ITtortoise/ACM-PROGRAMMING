@@ -1,0 +1,11 @@
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\bin\Debug\netcoreapp2.2\codeforces1204A.deps.json
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\bin\Debug\netcoreapp2.2\codeforces1204A.runtimeconfig.json
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\bin\Debug\netcoreapp2.2\codeforces1204A.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\bin\Debug\netcoreapp2.2\codeforces1204A.dll
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\bin\Debug\netcoreapp2.2\codeforces1204A.pdb
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.csprojAssemblyReference.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.AssemblyInfo.cs
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.dll
+C:\Users\shohag_shadaf\source\repos\codeforces1204A\codeforces1204A\obj\Debug\netcoreapp2.2\codeforces1204A.pdb

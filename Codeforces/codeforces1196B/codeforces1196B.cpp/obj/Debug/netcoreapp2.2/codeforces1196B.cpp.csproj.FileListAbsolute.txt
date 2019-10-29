@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\bin\Debug\netcoreapp2.2\codeforces1196B.cpp.deps.json
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\bin\Debug\netcoreapp2.2\codeforces1196B.cpp.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\bin\Debug\netcoreapp2.2\codeforces1196B.cpp.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\bin\Debug\netcoreapp2.2\codeforces1196B.cpp.dll
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\bin\Debug\netcoreapp2.2\codeforces1196B.cpp.pdb
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.dll
+H:\ACM programming\Codeforces\codeforces1196B.cpp\codeforces1196B.cpp\obj\Debug\netcoreapp2.2\codeforces1196B.cpp.pdb

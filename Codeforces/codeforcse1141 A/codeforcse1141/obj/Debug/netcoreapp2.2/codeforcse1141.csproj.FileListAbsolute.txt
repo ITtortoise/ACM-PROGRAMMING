@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\bin\Debug\netcoreapp2.2\codeforcse1141.deps.json
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\bin\Debug\netcoreapp2.2\codeforcse1141.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\bin\Debug\netcoreapp2.2\codeforcse1141.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\bin\Debug\netcoreapp2.2\codeforcse1141.dll
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\bin\Debug\netcoreapp2.2\codeforcse1141.pdb
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.dll
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.pdb
+H:\ACM programming\Codeforces\codeforcse1141\codeforcse1141\obj\Debug\netcoreapp2.2\codeforcse1141.csprojAssemblyReference.cache

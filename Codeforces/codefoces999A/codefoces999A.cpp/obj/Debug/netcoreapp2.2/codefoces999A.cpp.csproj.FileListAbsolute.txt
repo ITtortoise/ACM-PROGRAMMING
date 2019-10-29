@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\bin\Debug\netcoreapp2.2\codefoces999A.cpp.deps.json
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\bin\Debug\netcoreapp2.2\codefoces999A.cpp.runtimeconfig.json
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\bin\Debug\netcoreapp2.2\codefoces999A.cpp.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\bin\Debug\netcoreapp2.2\codefoces999A.cpp.dll
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\bin\Debug\netcoreapp2.2\codefoces999A.cpp.pdb
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.dll
+H:\ACM programming\Codeforces\codefoces999A.cpp\codefoces999A.cpp\obj\Debug\netcoreapp2.2\codefoces999A.cpp.pdb

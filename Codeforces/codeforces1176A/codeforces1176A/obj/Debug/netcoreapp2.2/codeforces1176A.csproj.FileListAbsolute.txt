@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\bin\Debug\netcoreapp2.2\codeforces1176A.deps.json
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\bin\Debug\netcoreapp2.2\codeforces1176A.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\bin\Debug\netcoreapp2.2\codeforces1176A.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\bin\Debug\netcoreapp2.2\codeforces1176A.dll
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\bin\Debug\netcoreapp2.2\codeforces1176A.pdb
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.dll
+H:\ACM programming\Codeforces\codeforces1176A\codeforces1176A\obj\Debug\netcoreapp2.2\codeforces1176A.pdb

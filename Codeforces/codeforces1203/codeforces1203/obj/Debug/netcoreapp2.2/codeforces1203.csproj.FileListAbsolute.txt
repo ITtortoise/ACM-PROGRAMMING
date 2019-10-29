@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\bin\Debug\netcoreapp2.2\codeforces1203.deps.json
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\bin\Debug\netcoreapp2.2\codeforces1203.runtimeconfig.json
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\bin\Debug\netcoreapp2.2\codeforces1203.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\bin\Debug\netcoreapp2.2\codeforces1203.dll
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\bin\Debug\netcoreapp2.2\codeforces1203.pdb
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.dll
+H:\ACM programming\Codeforces\codeforces1203\codeforces1203\obj\Debug\netcoreapp2.2\codeforces1203.pdb

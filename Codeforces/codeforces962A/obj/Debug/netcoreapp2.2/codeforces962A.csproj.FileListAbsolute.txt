@@ -1,0 +1,11 @@
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\bin\Debug\netcoreapp2.2\codeforces962A.deps.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\bin\Debug\netcoreapp2.2\codeforces962A.runtimeconfig.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\bin\Debug\netcoreapp2.2\codeforces962A.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\bin\Debug\netcoreapp2.2\codeforces962A.dll
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\bin\Debug\netcoreapp2.2\codeforces962A.pdb
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.csprojAssemblyReference.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.AssemblyInfo.cs
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.dll
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces962A\obj\Debug\netcoreapp2.2\codeforces962A.pdb

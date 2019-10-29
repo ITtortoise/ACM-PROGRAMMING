@@ -1,0 +1,11 @@
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\bin\Debug\netcoreapp2.2\codefoces1076A.deps.json
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\bin\Debug\netcoreapp2.2\codefoces1076A.runtimeconfig.json
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\bin\Debug\netcoreapp2.2\codefoces1076A.runtimeconfig.dev.json
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\bin\Debug\netcoreapp2.2\codefoces1076A.dll
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\bin\Debug\netcoreapp2.2\codefoces1076A.pdb
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.csprojAssemblyReference.cache
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.csproj.CoreCompileInputs.cache
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.AssemblyInfoInputs.cache
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.AssemblyInfo.cs
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.dll
+H:\ACM programming\Codeforces\codefoces1076A\codefoces1076A\obj\Debug\netcoreapp2.2\codefoces1076A.pdb

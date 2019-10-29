@@ -1,0 +1,11 @@
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\bin\Debug\netcoreapp2.2\codeforces686.deps.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\bin\Debug\netcoreapp2.2\codeforces686.runtimeconfig.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\bin\Debug\netcoreapp2.2\codeforces686.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\bin\Debug\netcoreapp2.2\codeforces686.dll
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\bin\Debug\netcoreapp2.2\codeforces686.pdb
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.csprojAssemblyReference.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.AssemblyInfo.cs
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.dll
+C:\Users\shohag_shadaf\Desktop\ASP.NET development\problem solve with C#\codeforces686\obj\Debug\netcoreapp2.2\codeforces686.pdb

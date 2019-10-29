@@ -1,0 +1,11 @@
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\bin\Debug\netcoreapp2.2\The Work Is Done.deps.json
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\bin\Debug\netcoreapp2.2\The Work Is Done.runtimeconfig.json
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\bin\Debug\netcoreapp2.2\The Work Is Done.runtimeconfig.dev.json
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\bin\Debug\netcoreapp2.2\The Work Is Done.dll
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\bin\Debug\netcoreapp2.2\The Work Is Done.pdb
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.csprojAssemblyReference.cache
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.csproj.CoreCompileInputs.cache
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.AssemblyInfoInputs.cache
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.AssemblyInfo.cs
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.dll
+H:\ACM programming\Dev Skill\The Work Is Done\The Work Is Done\obj\Debug\netcoreapp2.2\The Work Is Done.pdb

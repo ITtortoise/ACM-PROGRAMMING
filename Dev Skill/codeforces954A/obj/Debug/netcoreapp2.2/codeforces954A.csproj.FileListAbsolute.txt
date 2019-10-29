@@ -1,0 +1,11 @@
+H:\ACM programming\Dev Skill\codeforces954A\bin\Debug\netcoreapp2.2\codeforces954A.deps.json
+H:\ACM programming\Dev Skill\codeforces954A\bin\Debug\netcoreapp2.2\codeforces954A.runtimeconfig.json
+H:\ACM programming\Dev Skill\codeforces954A\bin\Debug\netcoreapp2.2\codeforces954A.runtimeconfig.dev.json
+H:\ACM programming\Dev Skill\codeforces954A\bin\Debug\netcoreapp2.2\codeforces954A.dll
+H:\ACM programming\Dev Skill\codeforces954A\bin\Debug\netcoreapp2.2\codeforces954A.pdb
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.csprojAssemblyReference.cache
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.csproj.CoreCompileInputs.cache
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.AssemblyInfoInputs.cache
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.AssemblyInfo.cs
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.dll
+H:\ACM programming\Dev Skill\codeforces954A\obj\Debug\netcoreapp2.2\codeforces954A.pdb
