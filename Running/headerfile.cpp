@@ -14,7 +14,6 @@ long long n,m,i,j;
 
 int main()
 {
-    while(1)
-    cout<<"bou"<<endl;
+
   return 0;
 }
