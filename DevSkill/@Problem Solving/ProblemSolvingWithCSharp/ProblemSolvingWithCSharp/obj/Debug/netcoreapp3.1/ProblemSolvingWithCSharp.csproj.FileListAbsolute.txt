@@ -1,0 +1,22 @@
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.exe
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.deps.json
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.runtimeconfig.json
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.runtimeconfig.dev.json
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.dll
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.pdb
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.csprojAssemblyReference.cache
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.AssemblyInfoInputs.cache
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.AssemblyInfo.cs
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.dll
+H:\ASPDotNetMVC\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.pdb
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.exe
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.deps.json
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.runtimeconfig.json
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.runtimeconfig.dev.json
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.dll
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\bin\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.pdb
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.csprojAssemblyReference.cache
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.AssemblyInfoInputs.cache
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.AssemblyInfo.cs
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.dll
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.pdb

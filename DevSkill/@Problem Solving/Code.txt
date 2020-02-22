@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define sz 100005
+typedef long long ll;
+
+int main()
+{
+    int t;
+    cin>>t;
+
+    for(int i=0; i<t; i++){
+        int fbd1,fbd2,fpak1,fpak2;
+        cin>>fbd1>>fbd2>>fpak1>>fpak2;
+
+        int sbd1,sbd2,spak1,spak2;
+        cin>>sbd1>>sbd2>>spak1>>spak2;
+
+        if( fbd1+fbd2 > fpak1+fpak2 && sbd1+sbd2 > spak1+spak2 )
+            printf("Banglawash\n");
+        else printf("Miss\n");
+    }
+
+}
