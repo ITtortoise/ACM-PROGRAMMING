@@ -11,16 +11,12 @@
 //            int T = int.Parse(Console.ReadLine());
 //            while (T-- > 0)
 //            {
-//                var values = Array.ConvertAll(Console.ReadLine().Split(), e => double.Parse(e));
-//                double R = values[0];
-//                double S = values[1];
-//                double D = (double)Math.Round(S * 1.414213562, 2);
-//                R = R * 2;
-//                R = (double)Math.Round(R, 2);
-//                Console.WriteLine(Math.Abs(R - D));
-//                //double diff = (double)Math.Round(Math.Abs(R - D), 2);
-//                //Console.WriteLine(diff);
-//                if (D == R || Math.Abs(R - D)<= 0.1)
+//                string[] line = Console.ReadLine().Split(' ');
+//                double len = double.Parse(line[0]);
+//                double radious = double.Parse(line[0]);
+//                double a = Math.Floor(Math.Sqrt(2 * Math.Pow(len, 2)));
+//                double r = Math.Floor(radious);
+//                if (r==a)
 //                    Console.WriteLine("Yes");
 //                else
 //                    Console.WriteLine("No");
