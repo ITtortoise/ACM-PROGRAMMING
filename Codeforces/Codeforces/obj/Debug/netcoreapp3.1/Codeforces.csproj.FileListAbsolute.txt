@@ -1,0 +1,11 @@
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.exe
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.deps.json
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.runtimeconfig.json
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.runtimeconfig.dev.json
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.dll
+H:\ACM Programming\Codeforces\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.pdb
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.csprojAssemblyReference.cache
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.AssemblyInfoInputs.cache
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.AssemblyInfo.cs
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.dll
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.pdb
