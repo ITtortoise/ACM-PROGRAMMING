@@ -9,3 +9,5 @@ H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.Asse
 H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.AssemblyInfo.cs
 H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.dll
 H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.pdb
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.csproj.CoreCompileInputs.cache
+H:\ACM Programming\Codeforces\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.genruntimeconfig.cache

@@ -10,26 +10,20 @@ namespace Codeforces
         static void Main(string[] agrs)
         {
             var line = Console.ReadLine();
-            var dic = new Dictionary<string, int>();
-            int k = 0;
-            for(int i=0;i<80;i+=10)
-            {
-                //Console.WriteLine(i);
-                var input = line.Substring(i, 10);
-                Console.WriteLine(input+" "+k);
-                if (!dic.ContainsKey(input))
-                {
-                    dic[input] = k;
-                    k++;
-                }
-           
-            }
-            for (int i = 1; i <= 10; i++)
-            {
-                var check = Console.ReadLine();
-                Console.WriteLine(dic["check"]);
+            string[] input = new string[99];
+            for (int i = 0; i < 10; i++)
+                input[i] = Console.ReadLine();
 
+            for (int i = 0; i < 80; i += 10)
+            {
+                for(int j = 0; j < 10; j++)
+                {
+                    string s = line.Substring(i, 10);
+                    if(s==input[j])
+                    Console.Write(j);
+                }
             }
+        
         }
     }
 }
