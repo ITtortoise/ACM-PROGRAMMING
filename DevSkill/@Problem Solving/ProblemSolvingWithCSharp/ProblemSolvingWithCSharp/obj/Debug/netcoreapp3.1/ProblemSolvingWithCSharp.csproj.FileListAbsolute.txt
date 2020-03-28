@@ -20,3 +20,5 @@ H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSol
 H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.AssemblyInfo.cs
 H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.dll
 H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.pdb
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.csproj.CoreCompileInputs.cache
+H:\ACM Programming\DevSkill\@Problem Solving\ProblemSolvingWithCSharp\ProblemSolvingWithCSharp\obj\Debug\netcoreapp3.1\ProblemSolvingWithCSharp.genruntimeconfig.cache

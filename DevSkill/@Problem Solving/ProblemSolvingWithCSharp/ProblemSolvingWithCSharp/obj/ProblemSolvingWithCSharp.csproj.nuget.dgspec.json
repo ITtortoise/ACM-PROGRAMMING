@@ -10,14 +10,11 @@
         "projectUniqueName": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj",
         "projectName": "ProblemSolvingWithCSharp",
         "projectPath": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj",
-        "packagesPath": "C:\\Users\\ITtortoise\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\",
         "outputPath": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ITtortoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shohag_shadaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
