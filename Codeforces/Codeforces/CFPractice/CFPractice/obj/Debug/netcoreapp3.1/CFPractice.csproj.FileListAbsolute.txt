@@ -1,0 +1,13 @@
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.exe
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.deps.json
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.runtimeconfig.json
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.runtimeconfig.dev.json
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.dll
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\bin\Debug\netcoreapp3.1\CFPractice.pdb
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.csprojAssemblyReference.cache
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.AssemblyInfoInputs.cache
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.AssemblyInfo.cs
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.csproj.CoreCompileInputs.cache
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.dll
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.pdb
+H:\ACM Programming\Codeforces\Codeforces\CFPractice\CFPractice\obj\Debug\netcoreapp3.1\CFPractice.genruntimeconfig.cache

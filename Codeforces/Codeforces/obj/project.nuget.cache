@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JvRjdgld3m25NmYxSlsqKEdlIusjcBClBGv9m9/5fnHTXGKYleM6qzF8VnA+qY12o4xxk1hGm28ougFkjVxJKA==",
+  "dgSpecHash": "ACTLiHsJte+9kB8Th3saVVNw+W9IvwdekT+anN4mboSvoLTDZOuNCRScBA+byb7sCCqAJpap75ze38pCEI7eWQ==",
   "success": true,
   "projectFilePath": "H:\\ACM Programming\\Codeforces\\Codeforces\\Codeforces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
-    "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+    "C:\\Users\\Sohag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sohag\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sohag\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sohag\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

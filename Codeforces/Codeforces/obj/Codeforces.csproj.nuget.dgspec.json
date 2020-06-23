@@ -10,11 +10,11 @@
         "projectUniqueName": "H:\\ACM Programming\\Codeforces\\Codeforces\\Codeforces.csproj",
         "projectName": "Codeforces",
         "projectPath": "H:\\ACM Programming\\Codeforces\\Codeforces\\Codeforces.csproj",
-        "packagesPath": "C:\\Users\\Shohag_shadaf\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
         "outputPath": "H:\\ACM Programming\\Codeforces\\Codeforces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shohag_shadaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

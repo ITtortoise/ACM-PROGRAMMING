@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj": {}
+    "H:\\ACM Programming\\Codeforces\\Codeforces\\CFPractice\\CFPractice\\CFPractice.csproj": {}
   },
   "projects": {
-    "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj": {
+    "H:\\ACM Programming\\Codeforces\\Codeforces\\CFPractice\\CFPractice\\CFPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj",
-        "projectName": "ProblemSolvingWithCSharp",
-        "projectPath": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp.csproj",
+        "projectUniqueName": "H:\\ACM Programming\\Codeforces\\Codeforces\\CFPractice\\CFPractice\\CFPractice.csproj",
+        "projectName": "CFPractice",
+        "projectPath": "H:\\ACM Programming\\Codeforces\\Codeforces\\CFPractice\\CFPractice\\CFPractice.csproj",
         "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-        "outputPath": "H:\\ACM Programming\\DevSkill\\@Problem Solving\\ProblemSolvingWithCSharp\\ProblemSolvingWithCSharp\\obj\\",
+        "outputPath": "H:\\ACM Programming\\Codeforces\\Codeforces\\CFPractice\\CFPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
