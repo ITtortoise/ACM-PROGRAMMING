@@ -1,0 +1,13 @@
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.exe
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.deps.json
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.runtimeconfig.json
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.runtimeconfig.dev.json
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.dll
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.pdb
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.csprojAssemblyReference.cache
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.AssemblyInfoInputs.cache
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.AssemblyInfo.cs
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.csproj.CoreCompileInputs.cache
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.dll
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.pdb
+H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.genruntimeconfig.cache

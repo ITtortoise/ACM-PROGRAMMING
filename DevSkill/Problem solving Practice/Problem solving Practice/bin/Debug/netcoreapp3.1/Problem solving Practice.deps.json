@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem solving Practice/1.0.0": {
+        "runtime": {
+          "Problem solving Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem solving Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
