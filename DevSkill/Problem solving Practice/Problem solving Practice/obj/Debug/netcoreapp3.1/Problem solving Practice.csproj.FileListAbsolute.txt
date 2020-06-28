@@ -11,3 +11,16 @@ H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netc
 H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.dll
 H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.pdb
 H:\ASPDotNetMVC\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.genruntimeconfig.cache
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.csprojAssemblyReference.cache
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.AssemblyInfoInputs.cache
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.AssemblyInfo.cs
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.csproj.CoreCompileInputs.cache
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.dll
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.pdb
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.exe
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.deps.json
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.runtimeconfig.json
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.runtimeconfig.dev.json
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.dll
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\bin\Debug\netcoreapp3.1\Problem solving Practice.pdb
+H:\ACM Programming\DevSkill\Problem solving Practice\Problem solving Practice\obj\Debug\netcoreapp3.1\Problem solving Practice.genruntimeconfig.cache

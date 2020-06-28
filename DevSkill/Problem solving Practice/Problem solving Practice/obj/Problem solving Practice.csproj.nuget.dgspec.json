@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\ASPDotNetMVC\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj": {}
+    "H:\\ACM Programming\\DevSkill\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj": {}
   },
   "projects": {
-    "H:\\ASPDotNetMVC\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj": {
+    "H:\\ACM Programming\\DevSkill\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\ASPDotNetMVC\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj",
+        "projectUniqueName": "H:\\ACM Programming\\DevSkill\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj",
         "projectName": "Problem solving Practice",
-        "projectPath": "H:\\ASPDotNetMVC\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj",
+        "projectPath": "H:\\ACM Programming\\DevSkill\\Problem solving Practice\\Problem solving Practice\\Problem solving Practice.csproj",
         "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-        "outputPath": "H:\\ASPDotNetMVC\\Problem solving Practice\\Problem solving Practice\\obj\\",
+        "outputPath": "H:\\ACM Programming\\DevSkill\\Problem solving Practice\\Problem solving Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
