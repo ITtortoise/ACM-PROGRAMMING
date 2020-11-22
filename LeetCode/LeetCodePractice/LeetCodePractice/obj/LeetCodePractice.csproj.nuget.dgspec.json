@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj": {}
+    "J:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj": {}
   },
   "projects": {
-    "H:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj": {
+    "J:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj",
+        "projectUniqueName": "J:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj",
         "projectName": "LeetCodePractice",
-        "projectPath": "H:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj",
-        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-        "outputPath": "H:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\obj\\",
+        "projectPath": "J:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\LeetCodePractice.csproj",
+        "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
+        "outputPath": "J:\\ACM Programming\\LeetCode\\LeetCodePractice\\LeetCodePractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

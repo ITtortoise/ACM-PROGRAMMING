@@ -1,0 +1,13 @@
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.exe
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.deps.json
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.runtimeconfig.json
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.runtimeconfig.dev.json
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.dll
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\bin\Debug\netcoreapp3.1\LeetCodePractice.pdb
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.csprojAssemblyReference.cache
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.AssemblyInfoInputs.cache
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.AssemblyInfo.cs
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.csproj.CoreCompileInputs.cache
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.dll
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.pdb
+J:\ACM Programming\LeetCode\LeetCodePractice\LeetCodePractice\obj\Debug\netcoreapp3.1\LeetCodePractice.genruntimeconfig.cache
